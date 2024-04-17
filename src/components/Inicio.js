@@ -80,6 +80,7 @@ const Inicio = (props) => {
     }, [sortedData]);
 
     const fetchData = async () => {
+        // Obtenemos datos desde API (Aca puede modificar EndPoints)
         try {
             var response = await fetch('http://127.0.0.1:8000/organizations-db');
             var jsonData = await response.json();
