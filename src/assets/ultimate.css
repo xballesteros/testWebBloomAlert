@@ -1,0 +1,10 @@
+.intern-box {
+    width: 20%;
+}
+
+@media screen and (max-width: 575px),
+(max-width: 1200px) and (max-height: 800px) {
+    .intern-box {
+        width: 100%;
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "data": [
+        {
+            "accionOcPendiente": false,
+            "codigo": "3597-844-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T03:28:40.233+00:00",
+            "fechaCierre": "2023-06-23T22:30:11.000+00:00",
+            "fechaPublicacion": "2023-06-22T03:30:01.087+00:00",
+            "id": 2193908,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 1800000.0,
+            "nombre": "ADQUISICIÓN DE ESTABILIZADOR DE CÁMARA PROFESIONAL ",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "I MUNICIPALIDAD DE VICUNA",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Ilustre Municipalidad de Vicuña"
+        },
+        {
+            "accionOcPendiente": false,
+            "codigo": "3597-841-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T03:24:09.777+00:00",
+            "fechaCierre": "2023-06-23T14:00:48.000+00:00",
+            "fechaPublicacion": "2023-06-22T03:25:01.870+00:00",
+            "id": 2193154,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 500000.0,
+            "nombre": "ADQUISICIÓN DE ARTÍCULOS PARA SISTEMA DE AMPLIFICACIÓN",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "I MUNICIPALIDAD DE VICUNA",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Ilustre Municipalidad de Vicuña"
+        },
+        {
+            "accionOcPendiente": false,
+            "codigo": "3597-845-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T03:17:16.200+00:00",
+            "fechaCierre": "2023-06-23T14:00:43.000+00:00",
+            "fechaPublicacion": "2023-06-22T03:22:03.700+00:00",
+            "id": 2194328,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 180000.0,
+            "nombre": "ADQUISICIÓN DE ARTICULOS DE OFICINA",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "I MUNICIPALIDAD DE VICUNA",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Ilustre Municipalidad de Vicuña"
+        },
+        {
+            "accionOcPendiente": false,
+            "codigo": "1437-604-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T03:08:20.970+00:00",
+            "fechaCierre": "2023-06-23T20:00:29.000+00:00",
+            "fechaPublicacion": "2023-06-22T03:08:27.537+00:00",
+            "id": 2198609,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 500000.0,
+            "nombre": "GRUPO FOLCLÓRICO \"CUECAS\" PARA CAMPEONATO REGIONAL DE CUECA CATEGORÍA ADULTO NORTE GRANDE.",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "I MUNICIPALIDAD DE LLANQUIHUE",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Ilustre Municipalidad de Llanquihue"
+        },
+        {
+            "accionOcPendiente": false,
+            "codigo": "5209-2003-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T02:19:17.777+00:00",
+            "fechaCierre": "2023-06-24T03:00:18.000+00:00",
+            "fechaPublicacion": "2023-06-22T02:26:16.047+00:00",
+            "id": 2198608,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 1820000.0,
+            "nombre": "COMPRA DE COLECALCIFEROL 50.000 UI",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "UNIVERSIDAD DE CHILE",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Hospital Clínico Univ. de Chile - Unidad de Medicamentos"
+        },
+        {
+            "accionOcPendiente": false,
+            "codigo": "1437-603-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T02:09:03.560+00:00",
+            "fechaCierre": "2023-06-23T16:00:52.000+00:00",
+            "fechaPublicacion": "2023-06-22T02:14:16.070+00:00",
+            "id": 2198607,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 1300000.0,
+            "nombre": "RETIRO, CONFECCIÓN E INSTALACIÓN DE CANALETAS DE AGUAS LLUVIAS DE EDIFICIO ANEXO EX DAEM",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "I MUNICIPALIDAD DE LLANQUIHUE",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Ilustre Municipalidad de Llanquihue"
+        },
+        {
+            "accionOcPendiente": false,
+            "codigo": "5209-2002-COT23",
+            "detalleSolicitud": {
+                "descripcion": "SE SOLICITA COMPRA DE PORTA CREDENCIALES  MEDIANTE ORD N° 85, AUTORIZADO POR DIRECTOR DAEM ,(s). se reqioere aceptar OC DE COMPRA EN 24 HOIRA Y ENTREGA EN 24 HORAS Y SIN COBRO DE ENVÍO, SE ADJUNTA IMAGEN REFERENCIAL.-",
+                "direccion": "PINTOR ONOFRE JARPA #55, Alhué, Región Metropolitana de Santiago",
+                "email": "liceost@educacionalhue.cl",
+                "esMultaSancion": 0,
+                "estado": "Cerrada",
+                "fechaApertura": "2023-06-20 19:58:41.937",
+                "fechaCierre": "2023-06-21 21:00:54.0",
+                "id": 2198434,
+                "idEstado": 3,
+                "institucion": {
+                    "empresa": null,
+                    "organizacion": null,
+                    "rut": null
+                },
+                "moneda": "CLP",
+                "montoMoneda": "200,000",
+                "montoTotalEstimado": "",
+                "motivoCancelacion": null,
+                "nombre": "PORTA CREDENCIAL  Y LANYARD ",
+                "nombreContacto": "VERÓNICA VILCHES MORAGA",
+                "plazoEntrega": 1,
+                "productos": [
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "PORTA CREDENCIALES  DE ACRÍLICO VÉRTICAL",
+                        "id": 21714515,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    },
+                    {
+                        "cantidad": 100,
+                        "codigoProducto": 55121802,
+                        "descripcion": "LANYARD DE TELA AZUL",
+                        "id": 21714516,
+                        "idCategoria": 55121800,
+                        "nombre": "Pulseras o tarjetas de identificación o productos similares",
+                        "solicitudCotizacionId": null,
+                        "unidad": {
+                            "activo": 1,
+                            "codigo": "EA",
+                            "defecto": 1,
+                            "id": 40,
+                            "magnitud": 1,
+                            "nombre": "Unidad",
+                            "simbolo": " "
+                        }
+                    }
+                ],
+                "telefono": "+56 997626542"
+            },
+            "estado": "Publicada",
+            "fechaApertura": "2023-06-22T02:08:56.520+00:00",
+            "fechaCierre": "2023-06-24T03:59:21.000+00:00",
+            "fechaPublicacion": "2023-06-22T02:09:11.373+00:00",
+            "id": 2198606,
+            "idEstado": 2,
+            "misOfertas": 0,
+            "moneda": "CLP",
+            "montoDisponible": 360000.0,
+            "nombre": "COMPRA DE BUDESONIDA  INH 200 MCG",
+            "numeroOfertas": null,
+            "ofertasRecibidas": 0,
+            "organismo": "UNIVERSIDAD DE CHILE",
+            "reseleccion": 0,
+            "totalRegistros": 2000,
+            "unidad": "Hospital Clínico Univ. de Chile - Unidad de Medicamentos"
+        }
+    ]
+}
