@@ -11,7 +11,7 @@ const Mapa = (props) => {
     const [geojsonData, setGeojsonData] = useState(null);
 
     useEffect(() => {
-        // Obtenemos datos GeoJSON desde API 
+        // Obtenemos datos GeoJSON desde API (Aca puede modificar EndPoints)
         fetch('http://127.0.0.1:8000/geo')
             .then(response => response.json())
             .then(data => setGeojsonData(data));
